@@ -52,17 +52,8 @@
 <div align="center">
 
 ### ۱. نمای کلی سامانه و پنل تنظیمات بازیابی
-<img src="assets/screenshot1.png" alt="نمای کلی رابط کاربری سامانه RAG" width="85%">
+<img src="images/images/Screenshot 27_08_1405 11_26_39 ق.ظ.png" alt="نمای کلی رابط کاربری سامانه RAG" width="85%">
 
-<br><br>
-
-### ۲. پاسخ‌گویی هوشمند به پرسش‌های فارسی بر اساس متن سند
-<img src="assets/screenshot2.png" alt="نمونه پاسخ‌گویی مدل به پرسش فارسی" width="85%">
-
-<br><br>
-
-### ۳. نمایش اسناد استخراج‌شده و امتیازهای Reranker و Hybrid Search
-<img src="assets/screenshot3.png" alt="نمایش امتیازهای بازیابی و بازرتبه‌بندی چانک‌ها" width="85%">
 
 </div>
 
