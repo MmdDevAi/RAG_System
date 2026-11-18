@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+sentence-transformers
+rank_bm25
+numpy
+pypdf
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
