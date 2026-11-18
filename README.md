@@ -52,7 +52,7 @@
 <div align="center">
 
 ### ۱. نمای کلی سامانه و پنل تنظیمات بازیابی
-<img src="images/images/Screenshot 27_08_1405 11_26_39 ق.ظ.png" alt="نمای کلی رابط کاربری سامانه RAG" width="85%">
+<img src="images/Screenshot 27_08_1405 11_26_39 ق.ظ.png" alt="نمای کلی رابط کاربری سامانه RAG" width="85%">
 
 
 </div>
